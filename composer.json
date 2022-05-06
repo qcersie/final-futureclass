@@ -1,0 +1,7 @@
+{
+    "require": {
+      "sendgrid/sendgrid": "~7",
+        "mpdf/mpdf": "^8.0",
+        "php-http/message-factory": "^1.0"
+    }
+  }
